@@ -8,3 +8,4 @@ Usar "Threads" no arduino pode ser √∫til quando manipulamos telas, sensores e m√
 # Woki  
 Esse projeto pode ser encontrado em:   
 https://wokwi.com/projects/392252268512443393
+![Preview do Wokwi](./Example.png)
